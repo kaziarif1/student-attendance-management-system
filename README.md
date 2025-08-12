@@ -5,12 +5,12 @@
 **ID**: 231-115-068  
 **Section**: B  
 **University**: Metropolitan University  
-**Course**: [Database Management System /CSE 224]  
+**Course**: [Database Management System/ CSE 224]  
 
 ## Project Objective
 A PHP/MySQL web application for managing student attendance with:
 - Admin and teacher panels  
-- Class/section management  
+- Class and class arm management  
 - Daily attendance recording  
 - Report generation and export  
 
@@ -23,18 +23,19 @@ Key Entities:
 - Teacher
 - Student
 - Class
+- Class Arm
 - Attendance
-- Section
 
 ## Implemented Functionalities
 ### Admin Panel
-- Manage classes, sections, and teachers  
+- Manage classes and class arms  
+- Assign class teachers  
 - Enroll students  
 - Set up academic terms  
 
 ### Teacher Panel
-- Mark daily attendance  
-- View student lists  
+- Mark daily attendance by class arm  
+- View student lists by class arm  
 - Generate attendance reports  
 - Export to Excel  
 
@@ -42,7 +43,7 @@ Key Entities:
 [Watch Full Demonstration on Google Drive](https://drive.google.com/file/d/1iXnL-4R-msdwQnH5D7YsNlGrSFnkHlja/view?usp=sharing)  
 *(Video covers all system features, frontend/backend explanation, and database queries)*
 
-
+---
 
 **Technology Used**: PHP 7.4, MySQL, Bootstrap  
 **Type**: Web Application  
