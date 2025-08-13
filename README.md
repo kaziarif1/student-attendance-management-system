@@ -86,7 +86,7 @@ A PHP/MySQL web application for managing student attendance with:
 1. **Download the Project**
    - Download the ZIP file or clone from your repository:
      ```bash
-     git clone https://github.com/kaziarif1/student-attendance-management-system.git
+     git clone (https://github.com/kaziarif1/student-attendance-management-system.git)
      ```
 
 2. **Move to XAMPP htdocs**
