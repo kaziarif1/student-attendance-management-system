@@ -115,7 +115,7 @@ A PHP/MySQL web application for managing student attendance with:
 ---
 
 ## Demo Video
-📺 **Watch Full Demonstration:** [Click Here](https://drive.google.com/drive/u/2/home)  
+📺 **Watch Full Demonstration:** [Click Here](https://drive.google.com/file/d/1iXnL-4R-msdwQnH5D7YsNlGrSFnkHlja/view?usp=sharing)  
 *(Video covers all system features, frontend/backend explanation, and database queries)*
 
 
