@@ -62,7 +62,7 @@ A PHP/MySQL web application for managing student attendance with:
 ## Screenshots
 
 ### Login Page
-![Login Page](https://github.com/kaziarif1/student-attendance-management-system/blob/main/screenshot/admin%20dashboard.png)
+![Login Page](https://github.com/kaziarif1/student-attendance-management-system/blob/main/screenshot/admin%20log%20in%20page%20picture.png)
 
 ### Admin Dashboard
 ![Admin Dashboard](https://github.com/kaziarif1/student-attendance-management-system/blob/main/screenshot/admin%20dashboard.png)
